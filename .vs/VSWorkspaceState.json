@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Admin",
+    "\\database",
+    "\\public",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\auth\\passwords"
+  ],
+  "SelectedNode": "\\app\\Http\\Controllers\\Admin\\RoomController.php",
+  "PreviewInSolutionExplorer": false
+}
